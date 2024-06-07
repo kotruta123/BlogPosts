@@ -25,4 +25,4 @@ I wanted to add the background to the respective scenes
 ### I have added+bug:
 I have added them, but i encountered some errors with the screen size and it has overflow the buttons.
 ### Bug Fix
-I have searched on youtube tutorials how to do it better, and i have fownd that i have to create one element, best is a picture in canvas and the add it, but not straight forward to the project yerarchy.
+I have searched on youtube tutorials how to do it better, and i have fownd that i have to create one element, best is a picture in canvas and the add it, but not straight forward to the project hierarchy.
