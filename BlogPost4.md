@@ -32,7 +32,7 @@ In the script i have added new method and corrected the previous, because was so
 Button to main menu
 
 ### I have added: 
-I have created a new button that will redirect to main menu. In the Game Manager script i have that each time when press on the menu button to redirect to Scene Number 0. There, were a lot of bugs with UI to understand how is better to create the yerarchy of the death menu and the button to work, but i fixed them.
+I have created a new button that will redirect to main menu. In the Game Manager script i have that each time when press on the menu button to redirect to Scene Number 0. There, were a lot of bugs with UI to understand how is better to create the hierarchy of the death menu and the button to work, but i fixed them.
 
 ### Feature 6
 Restart button on death menu
